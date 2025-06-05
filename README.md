@@ -1,7 +1,7 @@
 # Advanced-Object-Detection
 
 
-![Object Detection Demo](output.jpg)  <!-- Add a sample output image -->
+![Object Detection Demo](outputs/detected_8.jpg)  <!-- Add a sample output image -->
 
 A high-accuracy object detection system using YOLOv8, deployable via GitHub Actions.
 
